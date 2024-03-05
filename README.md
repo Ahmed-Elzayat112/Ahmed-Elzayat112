@@ -13,7 +13,7 @@ Hi there! I'm Ahmed Elzayat, a Software Engineering student passionate about bui
 ## Get in Touch
 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmed-elzayat-a83047237/).
-- 📧 Email me at [ahmedelzayat625@gmail.com](ahmedelzayat625@gmail.com).
+- 📧 Email me at [ahmedelzayat625@gmail.com].
 
 
 ## Thank You
