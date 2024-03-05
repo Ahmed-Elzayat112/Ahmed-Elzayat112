@@ -19,8 +19,9 @@ Hi there! I'm Ahmed Elzayat, a Software Engineering student passionate about bui
 ![GitHub followers](https://img.shields.io/github/followers/Ahmed-Elzayat112?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Ahmed-Elzayat112?style=social)
 
-
-
 ## Thank You
 
 Thank you for visiting my GitHub profile! Feel free to explore my projects and repositories. Don't hesitate to reach out if you have any questions or just want to chat. 😊
+
+![Loading Spinner](https://loading.io/spinners/spin/lg.curve-bars-loading-indicator.gif)
+
