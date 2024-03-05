@@ -15,8 +15,9 @@ Hi there! I'm Ahmed Elzayat, a Software Engineering student passionate about bui
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmed-elzayat-a83047237/).
 - 📧 Email me at [ahmedelzayat625@gmail.com].
 
-## Statistical Information
+## Statistics
 ![GitHub followers](https://img.shields.io/github/followers/Ahmed-Elzayat112?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Ahmed-Elzayat112?style=social)
 
 
 ## Thank You
