@@ -2,6 +2,10 @@
 
 Hi there! I'm Ahmed Elzayat, a Software Engineering student passionate about building innovative software solutions. Welcome to my GitHub profile!
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ## About Me
 
 - 🌱 I'm currently studying Software Engineering.
