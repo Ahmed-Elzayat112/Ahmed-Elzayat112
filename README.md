@@ -18,6 +18,9 @@ Hi there! I'm Ahmed Elzayat, a Software Engineering student passionate about bui
 ## Statistics
 ![GitHub followers](https://img.shields.io/github/followers/Ahmed-Elzayat112?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Ahmed-Elzayat112?style=social)
+![GitHub stars](https://img.shields.io/github/forks/Ahmed-Elzayat112?style=social)
+![GitHub stars](https://img.shields.io/github/issues/Ahmed-Elzayat112?style=social)
+![GitHub stars](https://img.shields.io/github/commit-activity/Ahmed-Elzayat112?style=social)
 
 
 ## Thank You
