@@ -15,11 +15,15 @@ Hi there! I'm Ahmed Elzayat, a Software Engineering student passionate about bui
 
 
 ## Get in Touch
-
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmed-elzayat-a83047237/).
-- 📧 Email me at [ahmedelzayat625@gmail.com].
+<div id="badges">
+  <a href="https://www.linkedin.com/in/ahmed-elzayat-a83047237/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+📧 Email me at [ahmedelzayat625@gmail.com].
 
 ## Statistics
+
 ![GitHub followers](https://img.shields.io/github/followers/Ahmed-Elzayat112?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Ahmed-Elzayat112?style=social)
 
@@ -27,5 +31,4 @@ Hi there! I'm Ahmed Elzayat, a Software Engineering student passionate about bui
 
 Thank you for visiting my GitHub profile! Feel free to explore my projects and repositories. Don't hesitate to reach out if you have any questions or just want to chat. 😊
 
-![Loading Spinner](https://loading.io/spinners/spin/lg.curve-bars-loading-indicator.gif)
 
