@@ -1,6 +1,6 @@
 # Welcome to Ahmed Elzayat GitHub Profile 👋
 
-Hi there! I'm Ahmed Elzayat, a Software Engineering student passionate about building innovative software solutions. Welcome to my GitHub profile!
+Hi there! I'm Ahmed Elzayat, a Backend developer @Baianat and passionate about building innovative software solutions. Welcome to my GitHub profile!
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -10,8 +10,8 @@ Hi there! I'm Ahmed Elzayat, a Software Engineering student passionate about bui
 
 - 🌱 I'm currently studying Software Engineering.
 - 💼 I'm working on personal projects to enhance my skills and contribute to open source.
-- 📚 I'm interested in full-stack web development and mobile app development.
-- 🎓 I have expertise in Python, JavaScript, HTML/CSS, , C++ and SQL.
+- 📚 I'm interested in full-stack web development.
+- 🎓 I have expertise in Python, JavaScript, HTML/CSS, C++, SQL, NodeJS, NestJs, PostgreSQL, MongoDB and GraphQl.
 
 <h2 align="left">I code with</h2>
 
